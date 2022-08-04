@@ -1,1 +1,4 @@
 # AuthMERN
+
+Authentication
+Authorization
